@@ -1,0 +1,11 @@
+file,exists,size_bytes
+data/processed/CD4_sequences.fasta,True,3564
+results/CD4/CD4_alignment.fasta,True,3705
+results/CD4/CD4_pairwise_identity.csv,True,937
+data/processed/CD8A_sequences.fasta,True,2052
+results/CD8A/CD8A_alignment.fasta,True,2410
+results/CD8A/CD8A_pairwise_identity.csv,True,961
+results/coreceptor_identity_summary.csv,True,308
+figures/CD4_pairwise_identity_heatmap.png,True,265228
+figures/CD8A_pairwise_identity_heatmap.png,True,284604
+figures/coreceptor_alignment_conservation.png,True,1112632

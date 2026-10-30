@@ -1,0 +1,7 @@
+sequence,matching_positions,positions_compared,identity_percent,human_residues_compared_percent
+chimpanzee_CD8A,233,235,99.15,100.0
+dog_CD8A,164,235,69.79,100.0
+cow_CD8A,148,235,62.98,100.0
+pig_CD8A,138,233,59.23,99.15
+rat_Cd8a,120,229,52.4,97.45
+mouse_Cd8a,116,231,50.22,98.3

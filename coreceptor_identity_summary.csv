@@ -1,0 +1,3 @@
+coreceptor,n_sequences,n_pairwise_comparisons,mean_identity_percent,median_identity_percent,minimum_identity_percent,maximum_identity_percent
+CD4,7,21,59.201695778439294,59.602649006622514,46.68141592920354,98.90829694323143
+CD8A,7,21,58.39682367015007,58.898305084745765,42.30769230769231,99.14893617021276
