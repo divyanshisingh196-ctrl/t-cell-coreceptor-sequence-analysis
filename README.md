@@ -38,7 +38,7 @@ signaling. This project asks:
 
 ### CD8A pairwise sequence identity
 
-![CD8A pairwise identity heatmap](CD8A_pairwise_identity_heatmap.png)
+![CD8A pairwise identity heatmap](/CD8A_pairwise_identity_heatmap.png)
 
 ### Alignment conservation
 
