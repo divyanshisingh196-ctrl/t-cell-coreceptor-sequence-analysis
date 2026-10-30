@@ -34,15 +34,15 @@ signaling. This project asks:
 
 ### CD4 pairwise sequence identity
 
-![CD4 pairwise identity heatmap](CD4_pairwise_identity_heatmap.png)
+![CD4 pairwise identity heatmap](figures/CD4_pairwise_identity_heatmap.png)
 
 ### CD8A pairwise sequence identity
 
-![CD8A pairwise identity heatmap](/CD8A_pairwise_identity_heatmap.png)
+![CD8A pairwise identity heatmap](figures/CD8A_pairwise_identity_heatmap.png)
 
 ### Alignment conservation
 
-![Coreceptor alignment conservation](coreceptor_alignment_conservation.png)
+![Coreceptor alignment conservation](figures/coreceptor_alignment_conservation.png)
 
 ## Data
 
